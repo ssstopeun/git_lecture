@@ -1,2 +1,2 @@
 # git_lecture
-GYR
+201702043 류건열
